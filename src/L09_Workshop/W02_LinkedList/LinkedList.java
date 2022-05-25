@@ -1,4 +1,4 @@
-package L10_Workshop.W02_LinkedList;
+package L09_Workshop.W02_LinkedList;
 
 import java.util.ArrayList;
 import java.util.List;
